@@ -1,8 +1,1 @@
-
-
-
-Uday Lal of age 48, gender Male lives at Rawan, Chhatisgarh. More about him/her: Bankaccount number: ${encrypted.showi_in_Binary
-atm: 2378
-Wife: Bhavna Lal
-Daughter: Shubhangi Lal, Shreya Lal,
- 
+Shreya of age 78, gender Female lives at chomupur, chomudesh. More about him/her: chomu hun guys 
